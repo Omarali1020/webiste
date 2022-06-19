@@ -1,3 +1,12 @@
 .aboutme{
-    
+    font-size: 20px;
+}
+.heading{
+    color: red;
+}
+.note{
+    color:red
+}
+.boldnote{
+    color: black;
 }
