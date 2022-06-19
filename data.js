@@ -11,5 +11,5 @@ var button = document.querySelector('button');
 var button = document.querySelector('button'); 
 
 button.onclick =function () {
-    print(" hello world")
+    alert(" hello world")
 }
