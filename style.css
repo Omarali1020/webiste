@@ -1,6 +1,10 @@
 .aboutme{
     font-size: 20px;
 }
+.aboutmee{
+    border-bottom: 10px;
+    border-bottom-color: black;
+}
 .heading{
     color: red;
 }
@@ -27,4 +31,10 @@
 }
 .github{
     color: black;
+}
+.A5{
+    color: green;
+}
+.A6{
+    color: green;
 }
