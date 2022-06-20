@@ -11,12 +11,9 @@
 .note{
     color:red
 }
- 
-
-
-
 .boldnote{
-    color: black;
+    color: black
+
 }
 .main1{
    color: blue;
@@ -81,6 +78,36 @@
 .B9{
     COLOR:green
 }
+.C1{
+    COLOR:green
+}
+.C2{
+    color: green;
+}
+.C3{
+    color: green;
+}
+.C4{
+    color: green;
+}
+.C5{
+    color: green;
+}
+.C6{
+    color: green;
+}
+.D1{
+    color: green;
+}
+.D2{
+    color: green;
+}
+.D3{
+    color: green;
+}
 .main3{
     color:blue
+}
+.main4{
+    color: blue;
 }
